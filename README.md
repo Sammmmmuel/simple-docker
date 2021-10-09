@@ -9,6 +9,6 @@ Monitoring: https://statuspage.freshping.io/56812-MyStatus
 
 1. First clone this repo @ https://github.com/Sammmmmuel/simple-docker.git
 2. Make sure your docker app is open on your local machine. 
-3. Then run the command "docker build -t flask-image ." on your terminal 
+3. Then run the command "docker build -t flask-image ." on your terminal. Make sure to include the period as well
 4. Next run "docker run -p 5000:5000 --rm --name flask-container flask-image" 
 
