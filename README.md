@@ -2,6 +2,7 @@
 <p>
 <img src="https://img.shields.io/github/issues/Sammmmmuel/simple-docker">
 <img src="https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2Fsimple-flask.dev.merissa.tech%2F">
+<img src="https://img.shields.io/docker/image-size/meklitc/simple-flask/latest">
 </p>
 
 Monitoring: https://statuspage.freshping.io/56812-MyStatus
